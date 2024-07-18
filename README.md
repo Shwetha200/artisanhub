@@ -1,1 +1,1 @@
-artisan-hub-mernstack-project
+artisanhub-mernstack-ecommerce-project
